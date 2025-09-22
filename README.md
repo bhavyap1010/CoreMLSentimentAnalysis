@@ -2,6 +2,10 @@
 
 A simple iOS app built with SwiftUI that performs real-time sentiment analysis on user input text using Apple's Natural Language framework.
 
+## Demo
+
+https://github.com/user-attachments/assets/2701d740-d2a5-415a-b017-f9b346a16c8e
+
 ## Features
 
 - Real-time sentiment analysis as you type
